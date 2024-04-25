@@ -1,1 +1,3 @@
 # Learning-Android
+
+这个项目将记录我学习android的过程。创建这个项目的原因是希望能够督促自己，记录自己的学习过程，也希望能够帮助到其他想学习android的人。如果你想讨论与android相关的问题，欢迎提issue。
